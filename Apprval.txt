@@ -1,25 +1,4 @@
 2427C359FA2C0DA18077FC47BCFEC796
 
-███    ███ ██████      ███    ██ ██ ██   ██ ██                              ████  ████ ██   ██     ████   ██ ██ ██  ██  ██
-██ ████ ██ ██████      ██ ██  ██ ██ █████   ██                              ██  ██  ██ ██   ██     ██  ██ ██ ██ ██  ██  ██
-██      ██ ██   ██     ██   ████ ██ ██   ██ ██                              ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[+] Owner    : Mr NIKI (tg: tareqtg)                                        [+] Status   : Premium
-[+] Version  : v-1.5.3                                                      [+] Category : Auto Forget, Confirm & Filter
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                             [+] Active Features Plan :
-[-] Fb Forget Otp sent (web)
-[-] Fb Forget Otp sent (api)
-[-] Fb Forget Otp Confrom (web)
-[-] Meta-Ai OTP sender (web)
-[-] Find Valid Accounts (Filter)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[+] Coming Soon Plan :
-[-] AUTHMSG OTP Sender (web)
-[-] Instagram OTP Sender (web)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                             [+] Subscription Price List :
-[~] 1 Week Plan    — 8$
-[~] 15 Days Plan   — 15$
-[~] 1 Month Plan   — 28$
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                             [+] Payment Methods: Binance, Bkash, Nagad
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                             [+] Your Key : 01987462D6FEBA24E758D939DCC1B09A
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                             ~/niki-tools $
-                                                                            
+0E56C7EE6193657819FD28670B80BF4D
+C9B295C62DFC3739B79E74E7D025039E
